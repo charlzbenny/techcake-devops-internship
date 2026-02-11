@@ -1,0 +1,20 @@
+ls – list files and directories
+pwd – show current directory
+cd – change directory
+mkdir – create directory
+touch – create file
+cp – copy files
+mv – move or rename files
+rm – delete files
+cat – view file content
+nano – text editor
+vim – advanced editor
+chmod – change file permissions
+chown – change file owner
+whoami – show current user
+id – show user details
+ps – show running processes
+top – system monitoring
+ping – check network connectivity
+curl – fetch data from URL
+ip a – show IP address

@@ -1,0 +1,19 @@
+name: CI Check
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Run Bash Script
+        run: bash systeminfo.sh
+
+      - name: Final Message
+        run: echo "Week 3 CI Successful"
