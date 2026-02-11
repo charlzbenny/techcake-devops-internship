@@ -1,0 +1,8 @@
+# Techcake DevOps Internship
+
+[![DevOps CI](https://github.com/charlzbenny/techcake-devops-internship/actions/workflows/ci.yml/badge.svg)](https://github.com/charlzbenny/techcake-devops-internship/actions/workflows/ci.yml)
+
+## Modules
+- Module1 – Linux & Git Fundamentals
+- Module2 – Web Hosting & Bash Scripting
+- Module3 – CI/CD with GitHub Actions
